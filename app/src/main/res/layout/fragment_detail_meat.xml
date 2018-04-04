@@ -1,0 +1,14 @@
+<com.rafalzawadzki.meatyviewpager.core.views.RoundedFrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/containerRounded">
+
+    <ImageView
+        android:id="@+id/imgBackground"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:src="@color/colorAccent"
+        android:scaleType="centerCrop" />
+
+</com.rafalzawadzki.meatyviewpager.core.views.RoundedFrameLayout>
